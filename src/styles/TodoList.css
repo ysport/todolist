@@ -26,3 +26,7 @@
     margin-left: 3px;
     margin-top: 0.2rem;
 }
+
+.TodoList ul {
+    margin-bottom: 30px;
+}
